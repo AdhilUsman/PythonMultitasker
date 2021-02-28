@@ -1,0 +1,1 @@
+playsound , pytube , gTTS , requests , bs4 , pyautogui
